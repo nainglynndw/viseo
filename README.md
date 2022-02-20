@@ -7,10 +7,11 @@ Project for VISEO Company Test
 
 #npm run android 
 
-Login password = Viseo123
-
 
 *The very first time may get error . If so , try again 'npm run android' .
+
+
+Login password = Viseo123
 
 
 Naing Lynn
